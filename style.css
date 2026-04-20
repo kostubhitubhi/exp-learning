@@ -103,5 +103,12 @@ button:hover, input[type="submit"]:hover {
     background: #ff6f91;
     transform: scale(1.05);
 }
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
 </style>
 </html>
