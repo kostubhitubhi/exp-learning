@@ -51,5 +51,9 @@ table {
     width: 100%;
     border-collapse: collapse;
 }
+th {
+    background: #ff9a9e;
+    color: white;
+}
 </style>
 </html>
