@@ -110,5 +110,10 @@ input, textarea {
     border-radius: 8px;
     border: 1px solid #ccc;
 }
+input:focus, textarea:focus {
+    outline: none;
+    border-color: #ff9a9e;
+    box-shadow: 0 0 5px #ff9a9e;
+}
 </style>
 </html>
