@@ -44,6 +44,8 @@ header {
     display: block;
     transition: 0.4s;
 }
-
+.img-box:hover img {
+    transform: scale(1.1);
+}
 </style>
 </html>
