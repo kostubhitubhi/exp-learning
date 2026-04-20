@@ -115,5 +115,12 @@ input:focus, textarea:focus {
     border-color: #ff9a9e;
     box-shadow: 0 0 5px #ff9a9e;
 }
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #ff9a9e;
+    color: white;
+}
+
 </style>
 </html>
