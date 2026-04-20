@@ -60,5 +60,8 @@ td, th {
     text-align: center;
     border: 1px solid #ddd;
 }
+tr:hover {
+    background: #ffe6e6;
+}
 </style>
 </html>
