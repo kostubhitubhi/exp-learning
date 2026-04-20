@@ -47,6 +47,21 @@ header {
 .img-box:hover img {
     transform: scale(1.1);
 }
+.overlay {
+    position: absolute;
+    bottom: 0;
+    background: rgba(0,0,0,0.6);
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    transform: translateY(100%);
+    transition: 0.4s;
+}
+
+.img-box:hover .overlay {
+    transform: translateY(0);
+}
 table {
     width: 100%;
     border-collapse: collapse;
