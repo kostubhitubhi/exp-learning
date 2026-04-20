@@ -137,5 +137,13 @@ h2:hover {
     <h2>About Me</h2>
     <p>I create aesthetic and minimal designs that stand out beautifully.</p>
 </div>
+<div class="card">
+    <h2>My Work 🎨</h2>
+
+    <div class="gallery">
+        <div class="img-box">
+            <img src="https://mir-s3-cdn-cf.behance.net/projects/404/9fd0c9172521329.Y3JvcCwxOTIwLDE1MDEsMCww.jpg">
+            <div class="overlay">Logo Designjpg</div>
+        </div>
 </body>
 </html>
