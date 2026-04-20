@@ -99,6 +99,9 @@ button, input[type="submit"] {
     cursor: pointer;
     transition: 0.3s;
 }
-
+button:hover, input[type="submit"]:hover {
+    background: #ff6f91;
+    transform: scale(1.05);
+}
 </style>
 </html>
