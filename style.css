@@ -138,12 +138,32 @@ h2:hover {
     <p>I create aesthetic and minimal designs that stand out beautifully.</p>
 </div>
 <div class="card">
-    <h2>My Work 🎨</h2>
+    <h2>My Work </h2>
 
     <div class="gallery">
         <div class="img-box">
             <img src="https://mir-s3-cdn-cf.behance.net/projects/404/9fd0c9172521329.Y3JvcCwxOTIwLDE1MDEsMCww.jpg">
             <div class="overlay">Logo Designjpg</div>
         </div>
+        <div class="img-box">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjts9buxQVZaNfZFD9-ArlE6WGD7KJyrtPpw&s">
+            <div class="overlay">Poster</div>
+        </div>
+
+        <div class="img-box">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCtBcByWgq4SS0GPPaFaIbiiOa_25gW7DlQ&s">
+            <div class="overlay">Creative Work</div>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <h2>Services </h2>
+
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Price</th>
+        </tr>
+        <tr>
 </body>
 </html>
