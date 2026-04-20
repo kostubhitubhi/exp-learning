@@ -47,5 +47,9 @@ header {
 .img-box:hover img {
     transform: scale(1.1);
 }
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
 </style>
 </html>
