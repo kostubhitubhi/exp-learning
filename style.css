@@ -192,11 +192,7 @@ h2:hover {
 
         Email:
         <input type="email">
-
-        Message:
-        <textarea rows="5"></textarea>
-
-        <input type="submit" value="Send">
+        
     </form>
 </body>
 </html>
