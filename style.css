@@ -34,6 +34,10 @@ header {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 15px;
 }
-
+.img-box {
+    position: relative;
+    overflow: hidden;
+    border-radius: 15px;
+}
 </style>
 </html>
