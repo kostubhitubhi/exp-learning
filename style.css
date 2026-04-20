@@ -55,5 +55,10 @@ th {
     background: #ff9a9e;
     color: white;
 }
+td, th {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
 </style>
 </html>
