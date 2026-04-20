@@ -121,6 +121,10 @@ footer {
     background: #ff9a9e;
     color: white;
 }
-
+h2:hover {
+    color: #ff6f91;
+    letter-spacing: 1px;
+    transition: 0.3s;
+}
 </style>
 </html>
