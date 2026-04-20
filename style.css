@@ -39,5 +39,11 @@ header {
     overflow: hidden;
     border-radius: 15px;
 }
+.img-box img {
+    width: 100%;
+    display: block;
+    transition: 0.4s;
+}
+
 </style>
 </html>
