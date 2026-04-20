@@ -90,5 +90,15 @@ tr:hover {
     transform: scale(1.02);
     background: #ffeaea;
 }
+button, input[type="submit"] {
+    background: #ff9a9e;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
 </style>
 </html>
