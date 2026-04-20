@@ -17,5 +17,14 @@ header {
     background: linear-gradient(to right, #ff9a9e, #fad0c4);
     color: white;
 }
+.card {
+    background: white;
+    margin: 25px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
 </style>
 </html>
