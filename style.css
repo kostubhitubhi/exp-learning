@@ -11,5 +11,11 @@ body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(135deg, #fdfbfb, #ebedee);
 }
+header {
+    text-align: center;
+    padding: 30px;
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+    color: white;
+}
 </style>
 </html>
